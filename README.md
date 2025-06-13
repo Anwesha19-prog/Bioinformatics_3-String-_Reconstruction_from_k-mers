@@ -51,7 +51,7 @@ CTTA ACCA TACC GGCT GCTT TTAC
 
 ---
 
-### 📈 Output Format
+### Output Format
 
 * A text file (`output.txt`) with the reconstructed string:
 
@@ -117,7 +117,7 @@ README.md                  # This file
 
 ---
 
-### 📆 Sample Run
+### Sample Run
 
 **Input:**
 
