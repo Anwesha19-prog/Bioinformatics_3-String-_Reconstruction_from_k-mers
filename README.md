@@ -2,6 +2,8 @@
 
 # README: String Reconstruction from k-mers
 
+## Author: Dr Anwesha Sarkar
+
 ---
 
 ### Problem Overview
